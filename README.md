@@ -63,4 +63,3 @@ Microsoft's patch for Spectre Variant 2 also included a firmware change. They ha
 
 ---
 
-Thank you for your interest, this project was fun and insightful!
